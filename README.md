@@ -1,4 +1,4 @@
-# Tugas W5 Otomata-E Kelompok 8
+# Otomata-E Kelompok 8
 ## Anggota:
 | Nama | NRP |
 | ---- | --- |
